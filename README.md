@@ -8,4 +8,3 @@ Security Engineer | Developer | Systems Admin
 
 **Links**
 - TryHackMe: [mst0wsk1](https://tryhackme.com/p/mst0wsk1)
-- LinkedIn: [your-profile-url]
